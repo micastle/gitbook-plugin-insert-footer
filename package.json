@@ -1,0 +1,131 @@
+{
+  "_args": [
+    [
+      {
+        "name": "gitbook-plugin-insert-title",
+        "raw": "gitbook-plugin-insert-title@0.1",
+        "rawSpec": "0.1",
+        "scope": null,
+        "spec": "0.1",
+        "type": "version"
+      },
+      "C:\\Users\\micas\\Code\\books\\gitbook测试"
+    ],
+    [
+      {
+        "name": "gitbook-plugin-insert-title",
+        "raw": "gitbook-plugin-insert-title@0.2.0",
+        "rawSpec": "0.2.0",
+        "scope": null,
+        "spec": "0.2.0",
+        "type": "version"
+      },
+      "C:\\Users\\micas\\Code\\books\\gitbook测试"
+    ],
+    [
+      {
+        "name": "gitbook-plugin-insert-footer",
+        "raw": "gitbook-plugin-insert-footer@0.1.0",
+        "rawSpec": "0.1.0",
+        "scope": null,
+        "spec": "0.1.0",
+        "type": "version"
+      },
+      "C:\\Users\\micas\\Code\\books\\gitbook测试"
+    ]
+  ],
+  "_from": "gitbook-plugin-insert-footer@0.1.0",
+  "_hasShrinkwrap": false,
+  "_id": "gitbook-plugin-insert-footer@0.1.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/gitbook-plugin-insert-footer",
+  "_nodeVersion": "12.16.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/gitbook-plugin-insert-footer_0.1.0_1590291038782_0.8266567716333186"
+  },
+  "_npmUser": {
+    "email": "micastlecl@hotmail.com",
+    "name": "micastle"
+  },
+  "_npmVersion": "6.14.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "gitbook-plugin-insert-footer",
+    "raw": "gitbook-plugin-insert-footer@0.1.0",
+    "rawSpec": "0.1.0",
+    "scope": null,
+    "spec": "0.1.0",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/gitbook-plugin-insert-footer/-/gitbook-plugin-insert-footer-0.1.0.tgz",
+  "_shasum": "61f1312a90da9378239323bd67f05f17750e961a",
+  "_shrinkwrap": null,
+  "_spec": "gitbook-plugin-insert-footer@0.1.0",
+  "_where": "C:\\Users\\micas\\Code\\books\\gitbook测试",
+  "author": {
+    "email": "matusnov@gmail.com",
+    "name": "matusnovak"
+  },
+  "bugs": {
+    "url": "https://github.com/matusnovak/gitbook-plugin-insert-logo/issues"
+  },
+  "dependencies": {},
+  "description": "GitBook Plugin to insert (url or file or base64) into the navigation above search input.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 6,
+    "integrity": "sha512-kgf+Cu2Ul+l6vLwDoQu3w6GoZOzaXGjv8TKJ1IJs+qEfbf7LDaNsZ/0UAwL+7Ddls1SH4tBM9Sc0BIImtMETqw==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJeyepfCRA9TVsSAnZWagAA/UIP/j+f+Cmp3PgwjWy+lcMs\n+nm9P7ei5Dv/oD9zGXP6zCmtYwCMlMW1Xwi6YIANuWY/UKO+4KjHLG+e10Ce\nadzA1VVS8nOAw0I4bXW2LsIU7yBKxCuvMsnJlVquTYx/u1dl11dSaOVwgJtp\n5nVgqU3Yw4RpCwYd9JN74k3fPeVviUfD4Ju1P2RX7jb5A4iY2p1p+28PDLDs\nHY9vdswtRmOHqzvCutLixhUU7GHZOxYtiqj8GrccPtygLicN8ZS/6jKPgyFj\nvOqCDyLd9XBZDBrIK59wCymZYTarC8LJn37xnGk4OnloyaILupbWzi3BS9SJ\n/9I93R9hXWnh0KuDpPDpsMRVTBrceaEatPhudYmKpEg8qJj1q6WGSTnZ1cm6\nL+F911tH2vMeNTwF6zpNI9nSnO3Ac3b8It9lvGyCacU5CgEY4HODbrwrfc3P\ndfSvWIEy0oDXL1fbGawv3P3YWgrRz7TmvlAjHGfEUO6wb7h9VL6WgHb/8+cQ\ngQeZ5x90qitj++aFPNMx8492WKq9ii1QwUx55QeEOQLmpui1yeJDN8M/R83I\nc/CcZSlh4+nU0na5qX8b0N4vZ+IAshCm0+5pBMHHKMFytf0SAp+N1i7dM63L\n3uYgzOrnecz93kBu3MLTk40fAc5NqQfwKZWogkjR3GHHyGNTlScIwPhraAUQ\nbXeS\r\n=rUgx\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "61f1312a90da9378239323bd67f05f17750e961a",
+    "tarball": "https://registry.npmjs.org/gitbook-plugin-insert-footer/-/gitbook-plugin-insert-footer-0.1.0.tgz",
+    "unpackedSize": 7358
+  },
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "gitHead": "fba26154a69508a0a84898423749f7dbea433485",
+  "gitbook": {
+    "properties": {
+      "style": {
+        "default": "background: none;",
+        "title": "Custom CSS",
+        "type": "string"
+      },
+      "url": {
+        "default": "http://www.example.com/my-logo.png",
+        "title": "Logo URL",
+        "type": "string"
+      }
+    }
+  },
+  "homepage": "https://github.com/matusnovak/gitbook-plugin-insert-logo#readme",
+  "keywords": [
+    "gitbook",
+    "plugin",
+    "insert-footer",
+    "title",
+    "github"
+  ],
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "micastlecl@hotmail.com",
+      "name": "micastle"
+    }
+  ],
+  "name": "gitbook-plugin-insert-footer",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matusnovak/gitbook-plugin-insert-logo.git"
+  },
+  "scripts": {},
+  "version": "0.1.5"
+}
